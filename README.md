@@ -11,3 +11,5 @@ Easy on the eyes, with dirty repo status:
 ![dzhi zsh theme](https://i.imgur.com/wUDjdUf.png "dzhi Zsh theme screenshot")
 
 Looks great with [matching VSCode theme](https://marketplace.visualstudio.com/items?itemName=arcticicestudio.nord-visual-studio-code).
+
+Based on original [robbyrussell](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/robbyrussell.zsh-theme) theme.
