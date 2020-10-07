@@ -6,9 +6,24 @@ A ZSH theme optimized for people who use:
 * Git
 * Unicode-compatible fonts and terminals (e.g. [Alacritty](https://github.com/alacritty/alacritty) ([Nord port](https://github.com/arcticicestudio/nord-alacritty)) + [JetBrains Mono](https://www.jetbrains.com/lp/mono/) font).
 
-Easy on the eyes, with dirty repo status:
+Easy on the eyes, with Git repo info:
 
-![dzhi zsh theme](https://i.imgur.com/wUDjdUf.png "dzhi Zsh theme screenshot")
+![dzhi zsh theme](https://i.imgur.com/L2lNx7m.png "dzhi Zsh theme screenshot")
+
+### Repo info & status indicators
+
+| Repo info 	| Repo status 	|
+|-----------	|-------------	|
+| ✔ CLEAN   	| ✛ ADDED      |
+| ☵ DIRTY   	| ✕ DELETED    |
+|           	| ✭ MODIFIED    |
+|           	| ⟲ RENAMED    |
+|           	| ⚑ UNTRACKED   |
+|           	| ⥂ UNSTAGED    |
+|           	| ⦧ UNMERGED    |
+|           	| ⥢ BEHIND      |
+|           	| ⥤ AHEAD       |
+
 
 Looks great with [matching VSCode theme](https://marketplace.visualstudio.com/items?itemName=arcticicestudio.nord-visual-studio-code).
 

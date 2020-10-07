@@ -21,4 +21,3 @@ ZSH_THEME_GIT_PROMPT_UNSTAGED="%{$fg[yellow]%}⥂ "
 ZSH_THEME_GIT_PROMPT_UNMERGED="%{$fg[yellow]%}⦧ "
 ZSH_THEME_GIT_PROMPT_BEHIND="%{$fg[yellow]%}⥢ "
 ZSH_THEME_GIT_PROMPT_AHEAD="%{$fg[yellow]%}⥤ "
-
